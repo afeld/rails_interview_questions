@@ -50,7 +50,7 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * [@darcyclarke](https://github.com/darcyclarke)'s [Frontend Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) (inspiration for this repo)
 * My [Advanced JavaScript](https://github.com/afeld/advanced_js) class materials
 * [Open Letter: Rails Interview Prep](http://afeld.me/nerdery/561078) from my blog
-* Video of NYC on Rails' [Junior Developer Panel](http://afeld.me/nerdery/522101) that I hosted
+* [Video](http://afeld.me/nerdery/522101) of the Junior Developer Panel that I hosted
 * [Ruby Koans](http://rubykoans.com/)
 * [Project Euler](http://projecteuler.net/)
 * [Flatiron School Prework](http://prework.flatironschool.com/) and [background](http://blog.flatironschool.com/post/37150595905/flatiron-school-prework)
