@@ -8,12 +8,14 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 
 * Personalize your list of questions.
 * Don't ask questions you don't know the answers to.
+* Mix trivia questions with open-ended ones.
 
 ### Interviewees
 
 * Don't study to the test.  Not all of these questions will be used, and others will be asked that aren't covered here.  Know your stuff.
 * Rails skills != CS skills
 * Know whether you are interviewing for a full-stack vs. backend-focused position.
+* Have code up on Github/Bitbucket/wherever - the more side projects you have to talk about, the better.
 
 ## The Questions
 
