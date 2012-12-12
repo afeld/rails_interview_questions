@@ -29,6 +29,7 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * How do you sort an Array of objects by a particular attribute?  What is a better way to do sorting with ActiveRecord?
 * What are some of your favorite gems?  What are their alternatives?
 * In Ruby, which is generally the better option: a recursive function or an iterative one?
+* What are `#method_missing` and `#send`?  Why are they useful?
 
 ### Rails
 
@@ -36,12 +37,15 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * Explain the different pieces of Rails.
 * Walk through the flow of a request through Rails.
 * What are the different server options for running a Rails/Rack app?
+* Explain CSRF and how Rails combats it.
+* Explain mass-assignment vulnerability.
 
 ## Resources
 
 (no particular order)
 
-* [@darcyclarke](https://github.com/darcyclarke)'s [Frontend Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
+* [@darcyclarke](https://github.com/darcyclarke)'s [Frontend Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) (inspiration for this repo)
+* My [Advanced JavaScript](https://github.com/afeld/advanced_js) class materials
 * [Open Letter: Rails Interview Prep](http://afeld.me/nerdery/561078) from my blog
 * [Ruby Koans](http://rubykoans.com/)
 * [Project Euler](http://projecteuler.net/)
