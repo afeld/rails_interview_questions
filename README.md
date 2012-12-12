@@ -1,6 +1,6 @@
 # Rails Interview Questions
 
-I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and elsewhere regarding what questions to use/expect in an interview for a Rails developer - now immortalized in a tidy list.
+I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and elsewhere regarding what questions to use/expect in an interview for a Rails developer, so figured I would get it together in a tidy list.  Pull requests welcome.
 
 ## Tips
 
@@ -12,6 +12,8 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 ### Interviewees
 
 * Don't study to the test.  Not all of these questions will be used, and others will be asked that aren't covered here.  Know your stuff.
+* Rails skills != CS skills
+* Know whether you are interviewing for a full-stack vs. backend-focused position.
 
 ## The Questions
 
@@ -19,7 +21,7 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 
 * What is a tree?  What is a DAG?
 * Pseudo-code depth-first and breadth-first search.
-* Given a sorted array, what is the fastest way to find a element?  What is the big-O time to do so?
+* Given a sorted array, what is the fastest way to find a element?  What is the Big-O time to do so?
 
 ### Ruby
 
