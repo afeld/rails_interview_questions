@@ -16,6 +16,7 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * Rails skills != CS skills
 * Know whether you are interviewing for a full-stack vs. backend-focused position.
 * Have code up on Github/Bitbucket/wherever - the more side projects you have to talk about, the better.
+* Be comfortable with *some* version control system.
 
 ## The Questions
 
@@ -51,7 +52,7 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * [Open Letter: Rails Interview Prep](http://afeld.me/nerdery/561078) from my blog
 * [Ruby Koans](http://rubykoans.com/)
 * [Project Euler](http://projecteuler.net/)
-* [Flatiron School Prework](http://prework.flatironschool.com/)
+* [Flatiron School Prework](http://prework.flatironschool.com/) and [background](http://blog.flatironschool.com/post/37150595905/flatiron-school-prework)
 
 ------------
 
