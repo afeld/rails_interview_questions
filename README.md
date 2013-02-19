@@ -17,6 +17,7 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * Know whether you are interviewing for a full-stack vs. backend-focused position.
 * Have code up on Github/Bitbucket/wherever - the more side projects you have to talk about, the better.
 * Be comfortable with *some* version control system.
+* Community awareness and resourcefulness can be as important as technical knowledge.
 
 ## The Questions
 
@@ -33,6 +34,8 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * What are some of your favorite gems?  What are their alternatives?
 * In Ruby, which is generally the better option: a recursive function or an iterative one?
 * What are `#method_missing` and `#send`?  Why are they useful?
+* What are the various Ruby runtimes, and how are they different?
+* Define "Matz".
 
 ### Rails
 
@@ -42,6 +45,10 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * What are the different server options for running a Rails/Rack app?
 * Explain CSRF and how Rails combats it.
 * Explain mass-assignment vulnerability.
+* Define "DHH".
+* Define "tenderlove".
+* Why do some people say "Rails can't scale"?
+* What is Rack?
 
 ## Resources
 
