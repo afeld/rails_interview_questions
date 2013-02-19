@@ -49,6 +49,9 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * Define "tenderlove".
 * Why do some people say "Rails can't scale"?
 * What is Rack?
+* What is middleware? How does it compare to controller filters/actions?
+* Explain various forms of caching available in Rails.
+* What are some Ruby web server options?
 
 ## Resources
 
