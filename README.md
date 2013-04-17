@@ -26,6 +26,7 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * What is a tree?  What is a DAG?
 * Pseudo-code depth-first and breadth-first search.
 * Given a sorted array, what is the fastest way to find a element?  What is the Big-O time to do so?
+* Explain how ajax works, hitting all parts of the stack. ([@abestanway](https://twitter.com/abestanway/status/278967644705677312))
 
 ### Ruby
 
