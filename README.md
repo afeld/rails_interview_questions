@@ -53,6 +53,7 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * What is middleware? How does it compare to controller filters/actions?
 * Explain various forms of caching available in Rails.
 * What are some Ruby web server options?
+* On a scale of [@gorbypuff](https://twitter.com/gorbypuff) (0) to [@tenderlove](https://twitter.com/tenderlove) (10), how would you rate your Rails profiency? 
 
 ## Resources
 
