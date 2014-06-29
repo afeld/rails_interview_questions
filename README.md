@@ -41,6 +41,7 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 ### Rails
 
 * What is the general history of Rails?
+* What is new in Rails 4?
 * Explain the different pieces of Rails.
 * Walk through the flow of a request through Rails.
 * What are the different server options for running a Rails/Rack app?
