@@ -68,7 +68,7 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * [Project Euler](http://projecteuler.net/)
 * [Flatiron School Prework](http://prework.flatironschool.com/) and [background](http://blog.flatironschool.com/post/37150595905/flatiron-school-prework)
 * [Job Interview](https://github.com/ruby-jokes/job_interview) by @ruby-jokes
-* [Resources](https://github.com/afeld/hackerhours.org/wiki/Resources) from Hacker Hours
+* [Resources](http://hackerhours.org/resources.html) from Hacker Hours
 
 ------------
 
