@@ -71,6 +71,7 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * [Job Interview](https://github.com/ruby-jokes/job_interview) by @ruby-jokes
 * [Developer Evangelist Interview Questions](https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions)
 * [Resources](http://hackerhours.org/resources.html) from Hacker Hours
+* [Technical interview cheat sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 
 ------------
 
