@@ -61,13 +61,13 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 
 (no particular order)
 
-* [@darcyclarke](https://github.com/darcyclarke)'s [Frontend Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) (inspiration for this repo)
-* My [Advanced JavaScript](https://github.com/afeld/advanced_js) class materials
+* [@darcyclarke](https://github.com/darcyclarke)'s [Frontend Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) (inspiration for this repo)
+* My [Advanced JavaScript](https://github.com/advanced-js/syllabus) class materials
 * [Open Letter: Rails Interview Prep](http://afeld.me/nerdery/561078) from my blog
 * [Video](http://afeld.me/nerdery/522101) of the Junior Developer Panel that I hosted
 * [Ruby Koans](http://rubykoans.com/)
-* [Project Euler](http://projecteuler.net/)
-* [Flatiron School Prework](http://prework.flatironschool.com/) and [background](http://blog.flatironschool.com/post/37150595905/flatiron-school-prework)
+* [Project Euler](https://projecteuler.net/)
+* [Flatiron School Prework](http://prework.flatironschool.com/) and [background](http://blog.flatironschool.com/flatiron-school-prework/)
 * [Job Interview](https://github.com/ruby-jokes/job_interview) by @ruby-jokes
 * [Developer Evangelist Interview Questions](https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions)
 * [Resources](http://hackerhours.org/resources.html) from Hacker Hours
