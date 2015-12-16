@@ -55,7 +55,7 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * Explain various forms of caching available in Rails.
 * What are some Ruby web server options?
 * How is something like `30.seconds.ago` implemented? (c/o @harrisj)
-* On a scale of [@gorbypuff](https://twitter.com/gorbypuff) (0) to [@tenderlove](https://twitter.com/tenderlove) (10), how would you rate your Rails proficiency? 
+* On a scale of "I've heard of it" (0) to "I maintain it" (10), how would you rate your Rails proficiency? 
 
 ## Resources
 
