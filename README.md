@@ -9,6 +9,9 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * Personalize your list of questions.
 * Don't ask questions you don't know the answers to.
 * Mix trivia questions with open-ended ones.
+* Use [Codr](http://codr.io/) or a similar online collaborative text editor for doing coding challenges
+    * Can be seen in real-time by remote team members
+    * The unique URL with the solution can be easily sent around or added wherever you a tracking information about the candidate
 
 ### Interviewees
 
