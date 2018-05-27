@@ -36,7 +36,6 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * In Ruby, which is generally the better option: a recursive function or an iterative one?
 * What are `#method_missing` and `#send`?  Why are they useful?
 * What are the various Ruby runtimes, and how are they different?
-* Define "Matz".
 
 ### Rails
 
@@ -47,8 +46,6 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * What are the different server options for running a Rails/Rack app?
 * Explain CSRF and how Rails combats it.
 * Explain mass-assignment vulnerability.
-* Define "DHH".
-* Define "tenderlove".
 * Why do some people say "Rails can't scale"?
 * What is Rack?
 * What is middleware? How does it compare to controller filters/actions?
@@ -60,6 +57,7 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 ## Resources
 
 (no particular order)
+
 
 * [@darcyclarke](https://github.com/darcyclarke)'s [Frontend Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) (inspiration for this repo)
 * My [Advanced JavaScript](https://github.com/advanced-js/syllabus) class materials
