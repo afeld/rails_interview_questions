@@ -12,6 +12,8 @@ I get a fair number of questions via [Hacker Hours](http://hackerhours.org) and 
 * Use [Codr](http://codr.io/) or a similar online collaborative text editor for doing coding challenges
     * Can be seen in real-time by remote team members
     * The unique URL with the solution can be easily sent around or added wherever you a tracking information about the candidate
+* About a third of the way through the interview, however you're feeling about the candidate (:+1:/:-1:), try and convince yourself otherwise.
+    * This is to help yourself fight your own biases.
 
 ### Interviewees
 
